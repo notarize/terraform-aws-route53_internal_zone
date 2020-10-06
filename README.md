@@ -1,6 +1,6 @@
 # aws-terraform-route53\_internal\_zone
 
-This module creates an internal Route53 zone.
+This module creates an Internal Route53 zone.
 
 ## Basic Usage
 
