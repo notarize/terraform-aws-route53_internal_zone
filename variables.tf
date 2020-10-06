@@ -1,7 +1,7 @@
 variable "environment" {
   description = "Application environment for which this zone is being created (e.g. 'Development', 'Integration', 'PreProduction', 'Production', 'QA', 'Staging', 'Test')."
   type        = string
-  default     = "Development"
+  default     = "Dev"
 }
 
 variable "name" {
